@@ -8,9 +8,9 @@
 
 [Introdução a Redes: Como Dados viram Ondas? | Parte 1 - YouTube](https://youtu.be/0TndL-Nh6Ok?si=J7l1NY4rs0Z2eQKh)
 
-### Tudo são ondas, o que muda é a forma em que esses dados são enviados e representados com:
+> ### Dados e ondas
 
-* Ondas
+* ##### Ondas
   
   <img src="https://cdn1.byjus.com/wp-content/uploads/2022/05/Types-of-Waves-1.png" title="" alt="Ondas" width="375">
   
@@ -20,20 +20,19 @@
   
   * Comprimentos sendo o intervalo de ZEROs ou UMs
 
-### Modulacao
-
-- Transforma os dados da forma digital para a forma fisica ou seja Bits para Ondas
-
-- Envia por meios como:
+* ##### Modulacao
   
-  - Cabos ( Fibra Optica, Cobre)
+  * Transforma os dados da forma digital para a forma fisica ou seja Bits para Ondas
   
-  - Radio ( Wi-Fi )
-
-### Demodulacao
-
-- Transforma os dados da forma fisica ( Ondas ) para a forma digital ( Bits )
-
-- Decodifica os dados.
+  * Envia por meios como:
+    
+    * Cabos ( Fibra Optica, Cobre)
+    
+    * Radio ( Wi-Fi )
+- ##### Demodulacao
+  
+  - Transforma os dados da forma fisica ( Ondas ) para a forma digital ( Bits )
+  
+  - Decodifica os dados.
 
 ##### *Para garantir a seguranca dos dados durante a transmissao, eles sao criptografados utilizando o [TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/)*
