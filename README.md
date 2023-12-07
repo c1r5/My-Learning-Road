@@ -3,6 +3,7 @@
 ### Irei mostrar minha trilha de estudo e minhas conquistas aqui
 
 * Quarta, 06, Dezembro de 2023
+* Estou estudando de acordo com o: [Backend Developer Roadmap: What is Backend Development?](https://roadmap.sh/backend)
 
 ### Como funciona a internet?
 
