@@ -37,8 +37,6 @@
 
 ##### *Para garantir a seguranca dos dados durante a transmissao, eles sao criptografados utilizando o HTTPS([TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/))*
 
-
-
 ## O que e HTTP?
 
 - O http ou Hyper Text Transfer Protocol e um conjunto de regras para transferencia de conteudo entre dois computadores, onde os mesmo irao processar os dados transformando eles em uma forma humanamente legivel.
@@ -70,8 +68,6 @@
     - Origin ( A origem da requisicao )
     
     - Content-Type ( Tipo de conteudo a ser passado no corpo)
-    
-    - 
   
   - Corpo
     
