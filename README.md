@@ -35,4 +35,44 @@
   
   - Decodifica os dados.
 
-##### *Para garantir a seguranca dos dados durante a transmissao, eles sao criptografados utilizando o [TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/)*
+##### *Para garantir a seguranca dos dados durante a transmissao, eles sao criptografados utilizando o HTTPS([TLS](https://www.cloudflare.com/pt-br/learning/ssl/transport-layer-security-tls/))*
+
+
+
+## O que e HTTP?
+
+- O http ou Hyper Text Transfer Protocol e um conjunto de regras para transferencia de conteudo entre dois computadores, onde os mesmo irao processar os dados transformando eles em uma forma humanamente legivel.
+
+- Esse conjunto de regras sao alguns parametros a serem passados, os principais de requisicao sao:
+  
+  - Metodo 
+    
+    - POST (Uma forma de passar dados de forma que nao aparecam na URL)
+    
+    - GET    (Dados passados na URL)
+    
+    - PUT    (Uma solicitacao para atualizar dados no servidor)
+    
+    - DELETE ( Deletar dados no servidor )
+    
+    - HEAD  (Uma forma de solicitar o cabecalho antes de pedir o conteudo inteiro para otimizar)
+      
+      - [Métodos de requisição HTTP - HTTP | MDN](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Methods)
+  
+  - URI ( URL e Parametros)
+    
+    - example.com/?chave=valor
+  
+  - Cabecalhos ( Header )
+    
+    - Host (Definir o host do web site)
+    
+    - Origin ( A origem da requisicao )
+    
+    - Content-Type ( Tipo de conteudo a ser passado no corpo)
+    
+    - 
+  
+  - Corpo
+    
+    - Dados do formato definido no Cabecalho Content-Type
