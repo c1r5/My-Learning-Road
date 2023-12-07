@@ -13,17 +13,29 @@
 
 * ##### Ondas
   
-  <img src="https://cdn1.byjus.com/wp-content/uploads/2022/05/Types-of-Waves-1.png" title="" alt="Ondas" width="375">
+  <img title="" src="https://cdn.kastatic.org/ka-perseus-images/162fdc69c05f43654aabc5f36714446782a4ccb5.png" alt="Ondas" width="525">
   
-  * As cristas podem ser representadas pelo UM.
+  * Ondas de alta frequencia
+    
+    * Ondas de alta frquencia sao aquelas que tem um vale (crista ao contrario) maior e duram mais tempo
   
-  * Os vales podem ser representados pelo ZERO
+  * Ondas de baixa frequencia
+    
+    * Sao aquelas que tem um vale menor e um intervalo curto entre a crista (imagem acima) das ondas
   
-  * Comprimentos sendo o intervalo de ZEROs ou UMs
+  * [Luz: ondas eletromagnéticas, espectro eletromagnético e fótons (artigo) | Khan Academy](https://pt.khanacademy.org/science/physics/light-waves/introduction-to-light-waves/a/light-and-the-electromagnetic-spectrum))
+
+* ##### Dados Digitais
+  
+  <img title="Bits" src="https://w7.pngwing.com/pngs/331/952/png-transparent-binary-number-computer-icons-binary-file-others-miscellaneous-text-rectangle.png" alt="BITS" width="236">
+  
+  - Zero significa desligado ou falso
+  
+  - Um significa ligado ou verdadeiro
 
 * ##### Modulacao
   
-  * Transforma os dados da forma digital para a forma fisica ou seja Bits para Ondas
+  * Transforma os dados da forma digital para a forma fisica ou seja 0 e 1 para Ondas
   
   * Envia por meios como:
     
@@ -32,7 +44,7 @@
     * Radio ( Wi-Fi )
 - ##### Demodulacao
   
-  - Transforma os dados da forma fisica ( Ondas ) para a forma digital ( Bits )
+  - Transforma os dados da forma fisica ( Ondas ) para a forma digital ( 0 e 1 )
   
   - Decodifica os dados.
 
