@@ -76,6 +76,4 @@ Esse conjunto de regras sao alguns parametros a serem passados, os principais de
 
 ## Como funciona os navegadores?
 
-> O que eu sei: Os navegadores sao ferramentas criadas para processar os dados recebidos da internet via HTTP, essas tecnologias sao criadas para receber, processar o codigo nas linguagens de formatacao HTML e CSS, e processar os algoritmos escritos em Javascript ( Linguagem utilizada na maioria senao em todos os navegadores )
-
-# 
+> O que eu sei: Os navegadores sao ferramentas criadas para processar os dados recebidos da internet via HTTP, essas tecnologias sao criadas para receber, processar o codigo nas linguagens de formatacao HTML e CSS, e processar os algoritmos escritos em Javascript (Linguagem utilizada na maioria senao em todos os navegadores)
